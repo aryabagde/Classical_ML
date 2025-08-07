@@ -1,2 +1,2 @@
-# Classic_ML
+# Classical_ML
 only classic ML problems
